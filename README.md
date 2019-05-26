@@ -72,6 +72,20 @@ Contact:
 - [LinkedIn](https://www.linkedin.com/in/robertaarcoverde/)
 
 ---
+
+## City: São José dos Campos - SP 
+
+Name: Renato Romão
+
+Occupation: Team Leader & Solution Developer @ [Go IT](http://go-it.work)
+
+Tags: Office Add-Ins, Microsoft PowerApps, Microsoft Flow, SharePoint Online, SharePoint Framework, React
+
+Contact: 
+- [LinkedIn](https://www.linkedin.com/in/renatoromao)
+
+---
+
 # ABOUT
 We want to provide a simple way to connect experienced and new speakers with communities and event organizers (especially event and communities related with tech)
 
